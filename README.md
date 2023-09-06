@@ -9,8 +9,8 @@
 
 ### Je code principalement en _python_ même si je m'interesse aux autres langages
 
-#### Je suis actuellement entrain de concevoir un micro-processeur, je suis donc très interessé par les micro-processeurs, j'ai également des connaissances assez fondées
-
+#### Je suis actuellement entrain de concevoir un micro-processeur
+#### Je suis donc en plein apprentissage du fonctionnement des ordinateurs, particulièrement au niveau des processeurs et de la mémoire
 <!--
 **Gdfbnht/Gdfbnht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
