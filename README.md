@@ -1,4 +1,14 @@
-### Hi there 👋
+# Gdfbnht ⚡
+
+## Je m'appelle **Adam** et j'ai **17 ans**.
+
+### Mes passions sont :
+- La programmation
+- Le sport
+- Les jeux vidéos
+
+#### Je code principalement en _python_ même si je m'interesse aux autres langages
+##### Je suis actuellement entrain de concevoir un ordinateur programmable
 
 <!--
 **Gdfbnht/Gdfbnht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
