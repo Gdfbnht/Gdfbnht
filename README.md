@@ -7,7 +7,7 @@
 - Le sport
 - Les jeux vidéos
 
-### Je code principalement en _python_ même si je m'interesse aux autres langages
+### Je code principalement en _python_ même si je m'interesse aux autres langages, tels que JS ou C
 
 #### Je suis actuellement entrain de concevoir un micro-processeur, je suis donc en plein apprentissage du fonctionnement des ordinateurs, particulièrement au niveau des processeurs et de la mémoire
 
