@@ -8,6 +8,7 @@
 - Les jeux vidéos
 
 ### Je code principalement en _python_ même si je m'interesse aux autres langages
+
 #### Je suis actuellement entrain de concevoir un micro-processeur, je suis donc très interessé par les micro-processeurs, j'ai également des connaissances assez fondées
 
 <!--
