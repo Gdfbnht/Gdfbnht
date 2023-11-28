@@ -6,11 +6,10 @@
 - La programmation
 - Le sport
 - Les jeux vidéos
+- Le dessin
+- Le piano
 
-### Je code principalement en _python_ même si je m'interesse aux autres langages, tels que JS ou C
-
-#### Je suis actuellement entrain de concevoir un micro-processeur, je suis donc en plein apprentissage du fonctionnement des ordinateurs, particulièrement au niveau des processeurs et de la mémoire
-
+### Je code principalement en _python_ même si je m'interesse aux autres langages informatiques
 <!--
 **Gdfbnht/Gdfbnht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
