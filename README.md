@@ -1,6 +1,6 @@
 # Gdfbnht ⚡
 
-## Je m'appelle **Adam** et j'ai **17 ans**.
+## Je m'appelle **Adam** et j'ai **18 ans**.
 
 ### Mes passions sont :
 - La programmation
