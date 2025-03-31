@@ -1,6 +1,6 @@
 # Gdfbnht ⚡
 
-## Je m'appelle **Adam** et j'ai **18 ans**.
+## Je m'appelle **Adam** et j'ai **19 ans**.
 
 ### Mes passions sont :
 - La programmation
@@ -9,7 +9,7 @@
 - Le dessin
 - Le piano
 
-### Je code principalement en _python_ même si je m'interesse aux autres langages informatiques
+
 <!--
 **Gdfbnht/Gdfbnht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
